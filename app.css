@@ -1,0 +1,40 @@
+body {
+    background-color: rgb(255, 255, 255)
+}
+h1 {
+    font-family: Arial, Helvetica, sans-serif;
+    border-radius: 15px;
+    background-color: wheat;
+    color: rgb(43, 196, 247);
+}
+
+h2{
+    font-family: Arial, Helvetica, sans-serif;
+    border-radius: 15px;
+    background-color: wheat;
+    color: black;
+}
+p{
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: wheat;
+    border-radius: 15px;
+    color: black;
+}
+img{
+    width: 20%;
+}
+table, td, tr{
+    border: solid 2px;
+    border-style: groove;
+    background-color: wheat;
+}
+form{
+    border: solid 2px;
+    border-style: groove;
+    background-color: white;
+}
+button{
+    border: solid 2px;
+    border-style: groove;
+    background-color: whitesmoke;
+}
